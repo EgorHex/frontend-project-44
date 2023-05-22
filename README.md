@@ -5,3 +5,6 @@
 
 Game check brain-even with correct and incorrect answers
 [![asciicast](https://asciinema.org/a/P1VQgG5L23RiIjKnwQA0tleHw.svg)](https://asciinema.org/a/P1VQgG5L23RiIjKnwQA0tleHw)
+
+Game check brain-calc with correct and incorrect answers
+[![asciicast](https://asciinema.org/a/z5uYMK6Rizsu1DUEM3ETTcLBe.svg)](https://asciinema.org/a/z5uYMK6Rizsu1DUEM3ETTcLBe)
