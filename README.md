@@ -30,6 +30,7 @@ Game check brain-calc with correct and incorrect answers
 [![asciicast](https://asciinema.org/a/z5uYMK6Rizsu1DUEM3ETTcLBe.svg)](https://asciinema.org/a/z5uYMK6Rizsu1DUEM3ETTcLBe)
 
 Игра "НОД"
+
 Запуск игры: brain-gcd
 
 Необходимо найти наибольший общий делитель заданных чисел.
