@@ -14,3 +14,6 @@ Game check brain-gcd with correct and incorrect answers
 
 Game check brain-progression with correct and incorrect answers
 [![asciicast](https://asciinema.org/a/lR1ypFCbfgF1PvByQ1nKhPl7z.svg)](https://asciinema.org/a/lR1ypFCbfgF1PvByQ1nKhPl7z)
+
+Game check brain-prime with correct and incorrect answers
+[![asciicast](https://asciinema.org/a/at4NcvbPPJZJC98TQdcconPbk.svg)](https://asciinema.org/a/at4NcvbPPJZJC98TQdcconPbk)
