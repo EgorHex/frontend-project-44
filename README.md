@@ -11,3 +11,6 @@ Game check brain-calc with correct and incorrect answers
 
 Game check brain-gcd with correct and incorrect answers
 [![asciicast](https://asciinema.org/a/IWoEfUpU8CM8OyW8PS76jrnBb.svg)](https://asciinema.org/a/IWoEfUpU8CM8OyW8PS76jrnBb)
+
+Game check brain-progression with correct and incorrect answers
+[![asciicast](https://asciinema.org/a/lR1ypFCbfgF1PvByQ1nKhPl7z.svg)](https://asciinema.org/a/lR1ypFCbfgF1PvByQ1nKhPl7z)
