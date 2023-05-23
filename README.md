@@ -5,7 +5,7 @@
 
 ## For install Brain Games
 ```sh
-$ git clone git@github.com:EgorHex/frontend-project-44.git
+$ git clone https://github.com/EgorHex/frontend-project-44.git
 $ npm link
 ```
 
