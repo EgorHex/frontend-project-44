@@ -8,3 +8,6 @@ Game check brain-even with correct and incorrect answers
 
 Game check brain-calc with correct and incorrect answers
 [![asciicast](https://asciinema.org/a/z5uYMK6Rizsu1DUEM3ETTcLBe.svg)](https://asciinema.org/a/z5uYMK6Rizsu1DUEM3ETTcLBe)
+
+Game check brain-gcd with correct and incorrect answers
+[![asciicast](https://asciinema.org/a/IWoEfUpU8CM8OyW8PS76jrnBb.svg)](https://asciinema.org/a/IWoEfUpU8CM8OyW8PS76jrnBb)
